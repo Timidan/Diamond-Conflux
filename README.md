@@ -9,7 +9,7 @@ The standard loupe functions have been gas-optimized in this implementation and 
 1. Clone this repo:
 
 ```console
-git clone
+git clone https://github.com/Timidan/Diamond-Conflux.git
 ```
 
 2. Install NPM packages:
